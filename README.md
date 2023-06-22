@@ -1,6 +1,8 @@
 # Image Search Engine
 This is an Image Search Engine that allows users to search for images using the Unsplash API. The application is built using HTML, CSS, and JavaScript.
 
+[Live Demo]( https://sahil0029.github.io/Image-Search-Engine/)
+
 ## Features
 - Search for images based on keywords or phrases.
 - View a grid of image thumbnails matching the search query.
