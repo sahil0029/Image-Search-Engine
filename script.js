@@ -22,7 +22,7 @@ async function searchImages(){
 
     results.map((result) => {
         const image = document.createElement("img");
-        image.scr = result.urls.small;
+        image.src = result.urls.small;
         const imageLink = document.createElement("a");
         imageLink.href = result.links.html;
         imageLink.target = "_blank";
